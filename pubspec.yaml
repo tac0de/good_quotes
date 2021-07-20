@@ -1,0 +1,47 @@
+name: good_quotes
+description: A new Flutter project.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.1+2
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences:
+  provider:
+  path_provider:
+  screenshot: ^0.2.0
+  share: ^0.6.4
+  instashare:
+  material_design_icons_flutter:
+  clipboard:
+  flutter_local_notifications: ^1.4.1
+  rxdart:
+  flutter_time_picker_spinner:
+  intl:
+  url_launcher:
+  in_app_purchase:
+  in_app_review:
+  device_info:
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/thumbnails/
+    - assets/json/
+
+  fonts:
+    - family: Garamond
+      fonts:
+        - asset: assets/fonts/EBGaramond-Regular.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 500

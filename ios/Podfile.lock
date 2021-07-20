@@ -1,0 +1,70 @@
+PODS:
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - in_app_purchase (0.0.1):
+    - Flutter
+  - in_app_review (0.2.0):
+    - Flutter
+  - instashare (0.0.8):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - share (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - in_app_purchase (from `.symlinks/plugins/in_app_purchase/ios`)
+  - in_app_review (from `.symlinks/plugins/in_app_review/ios`)
+  - instashare (from `.symlinks/plugins/instashare/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - share (from `.symlinks/plugins/share/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+EXTERNAL SOURCES:
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  in_app_purchase:
+    :path: ".symlinks/plugins/in_app_purchase/ios"
+  in_app_review:
+    :path: ".symlinks/plugins/in_app_review/ios"
+  instashare:
+    :path: ".symlinks/plugins/instashare/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_local_notifications: 9e4738ce2471c5af910d961a6b7eadcf57c50186
+  in_app_purchase: 3e2155afa9d03d4fa32d9e62d567885080ce97d6
+  in_app_review: 4a97249f7a2f539a0f294c2d9196b7fe35e49541
+  instashare: 6d045604a2810b82c2e28aa853dd5f2a5322cda7
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  share: 0b2c3e82132f5888bccca3351c504d0003b3b410
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+
+PODFILE CHECKSUM: 5ea622aed0ea53b866bfbaf1062f4bb003fd5869
+
+COCOAPODS: 1.10.0.beta.1
